@@ -4,9 +4,10 @@
    <name>SI-GuidedProject-706045-1707496855</name>
    <tag></tag>
    <UUID>0e0266b5-8748-41f5-b799-a8241e53cde9</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\HP\git\SI-GuidedProject-706045-1707496855clone\SI-GuidedProject-706045-1707496855.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
